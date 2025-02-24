@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wasay Aamir</h1>
-<h3 align="center">Software Engineering Student @ Ontario Tech University</h3>
+<h3 align="center">Computer Science Student @ Ontario Tech University</h3>
 
 ---
 
